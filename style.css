@@ -4,9 +4,6 @@ h1  {
 p {
   colour: blue;
 }
-<p class="orange">Some text</p>
-<p class="orange">Some more text</p>
-
 
 .orange {
   background: orange;
